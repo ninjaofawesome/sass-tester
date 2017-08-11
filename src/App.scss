@@ -1,5 +1,11 @@
+// if you want the whole kit and caboodle
 @import 'node_modules/tester-pkg/scss/index.scss';
 
+// components
+@import 'scss/links.scss';
+
+
+// legacy.
 .App {
   text-align: center;
 }

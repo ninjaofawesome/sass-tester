@@ -1,0 +1,6 @@
+@import 'node_modules/tester-pkg/scss/variables.scss';
+@import 'node_modules/tester-pkg/scss/mixins.scss';
+
+.links {
+  @include BoldLink($red, $blue);
+}

@@ -13,6 +13,8 @@ class App extends Component {
         <p className="App-intro a">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <a href="http://www.petguide.com/blog/dog/top-10-cutest-dog-breeds/" className="links" target="_blank">CLICK ME NOW</a>
+        <a href="http://www.boredpanda.com/cute-kittens/" className="d" target="_blank">NO CLICK ME</a>
       </div>
     );
   }
